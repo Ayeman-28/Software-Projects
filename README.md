@@ -8,7 +8,8 @@
 ## IoT Air Quality Monitoring System
 - Developed an end-to-end IoT system using Raspberry Pi
 - Collected and processed air quality data via Python
-- Implemented TCP/IP communication and basic linear regression for data analysis
+- Implemented TCP/IP communication to transmit data to a server
+- Performed basic linear regression to analyze and predict air quality trends
 
 ## Notes
 - Full code will be available upon request
